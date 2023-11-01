@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.QLSinhVien.resources
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+E:\LuuDuLieuSinhVien\38_TruongTanPhat_Buoi11\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form2.resources
